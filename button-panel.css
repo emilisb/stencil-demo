@@ -1,5 +1,8 @@
 .component-button-panel {
   background-color: #858694;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .component-button-panel > div {
